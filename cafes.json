@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "nombre": "Cappuccino"
+    },
+    {
+      "id": 2,
+      "nombre": "Mocacino"
+    },
+    {
+      "id": 3,
+      "nombre": "Americano"
+    },
+    {
+      "id": 4,
+      "nombre": "Cortado"
+    }
+  ]
